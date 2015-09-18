@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\n\ Act\ -\ do\ whatever\ the\ Uzytkownik\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment1.params=nickname
+comment1.target=Uzytkownik(java.lang.String)
+comment2.params=
+comment2.target=void\ dodajPunkt()
+comment3.params=
+comment3.target=void\ podniesLicznikBledow()
+comment4.params=
+comment4.target=int\ getScore()
+comment5.params=
+comment5.target=int\ wezLicznikBledow()
+comment6.params=
+comment6.target=java.lang.String\ getNickName()
+numComments=7

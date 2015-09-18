@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=angle
+comment0.target=void\ ustawMiare(double)
+comment1.params=
+comment1.target=void\ rzucPilke()
+comment2.params=angle
+comment2.target=void\ rzucPilke(double)
+comment3.params=v0\ angle
+comment3.target=double\ countV1(double,\ double)
+comment4.params=v0\ angle
+comment4.target=double\ countV2(double,\ double)
+comment5.params=v2\ t
+comment5.target=double\ getNewX(double,\ double)
+comment6.params=v1
+comment6.target=int\ calculateHmax(double)
+comment7.params=v1\ t
+comment7.target=double\ getNewY(double,\ double)
+comment8.params=
+comment8.target=void\ animujLotPilki()
+comment9.params=
+comment9.target=boolean\ czyPunkt()
+numComments=10
